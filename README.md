@@ -1,5 +1,6 @@
 # Bypass_AV
 Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 ，360&amp;火绒&amp;Window Defender
+
 代码够简单，估计要不了多久就进特征库了，被杀了再去改几个特征码照样又可以免杀，保持更新。
 
 ## 声明

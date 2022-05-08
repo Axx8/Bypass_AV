@@ -13,7 +13,7 @@ Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 �
 ## 环境
 2022年5月8日 测试可以免杀国内杀软 火绒&360及Windows Defender
 
-Windows 10 64位   360&火绒&Window Defender
+Windows 10 64位   360&火绒&Windows Defender
 
 Windows 7 64位  或以上操作系统应该都没问题（没有测试）
 

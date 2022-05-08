@@ -1,5 +1,5 @@
 # Bypass_AV
-Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 ，360&amp;火绒&amp;Window Defender
+Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 ，360&amp;火绒&amp;Windows Defender
 
 代码够简单，估计要不了多久就进特征库了，被杀了再去改几个特征码照样又可以免杀，保持更新。
 
@@ -11,7 +11,7 @@ Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 �
 代码未经过大量测试，如发现问题请提交 issue。
 
 ## 环境
-2022年5月8日 测试可以免杀国内杀软 火绒&360及Window Defender
+2022年5月8日 测试可以免杀国内杀软 火绒&360及Windows Defender
 
 Windows 10 64位   360&火绒&Window Defender
 
@@ -87,7 +87,7 @@ https://user-images.githubusercontent.com/34683107/167286823-a93fdd69-547e-4adc-
 https://user-images.githubusercontent.com/34683107/167286897-a482c486-c3e9-4f69-ae55-98afd2ff1ed7.mov
 
 
-### Bypass_Window Defender
+### Bypass_Windows Defender
 
 https://user-images.githubusercontent.com/34683107/167286874-9413611e-c2be-4cfb-ba51-f95ebe5518af.mov
 

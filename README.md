@@ -10,6 +10,7 @@ Bypass_AV msf免杀，ShellCode免杀加载器 ，免杀shellcode执行程序 �
 
 代码未经过大量测试，如发现问题请提交 issue。
 
+
 ## 环境
 2022年5月8日 测试可以免杀国内杀软 火绒&360及Windows Defender
 
@@ -95,3 +96,4 @@ https://user-images.githubusercontent.com/34683107/167286874-9413611e-c2be-4cfb-
 感谢阅读
 
 ![Axx8](https://user-images.githubusercontent.com/34683107/167286522-4a5fb52c-f975-4ca1-ba6d-6333fd9ff046.jpg)
+![微信公众号](https://user-images.githubusercontent.com/34683107/167347580-f2589264-3bc3-4e8a-9fd4-b5408a2b5dfb.png)
